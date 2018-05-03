@@ -1,72 +1,194 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="isabel.kim" resolutions="1x" timestamp="1497428390203">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="isabel.kim" resolutions="1x" timestamp="1525363275631">
   <folder name="css">
-    <file name="site_global.css" crc="4142536330"/>
-    <file name="fiction-nonfiction.css" crc="430011519" ref="fiction-nonfiction"/>
-    <file name="whoareyou.css" crc="4239347926" ref="whoareyou"/>
-    <file name="cv.css" crc="4289766536" ref="cv"/>
-    <file name="index.css" crc="78559816" ref="index"/>
-    <file name="photo.css" crc="3788022900" ref="photo"/>
-    <file name="arttextgame.css" crc="4256410006" ref="arttextgame"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="15897852" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="isabel_kim_resume.pdf" crc="134850527" seo="true" mt="1454088472000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
-    <file name="museutils.js" crc="4232573551" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
-    <file name="whatinput.js" crc="86476730" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
-    <file name="require.js" crc="4234670167" ref="index:arttextgame:cv:fiction-nonfiction:photo:whoareyou"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="edited_psds03.jpg" crc="3775068284" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="u564-4.png" crc="121020353" ref="index"/>
+    <file name="u689-4.png" crc="191697982" ref="index"/>
+    <file name="u710-4.png" crc="262959415" ref="index"/>
+    <file name="u698-4.png" crc="4119100493" ref="index"/>
+    <file name="u634-4.png" crc="465079423" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u849.png" crc="4042362299" ref="index"/>
+    <file name="u849-r.png" crc="453828871" ref="index"/>
+    <file name="u849-m.png" crc="453828871" ref="index"/>
+    <file name="u849-a.png" crc="341127616" ref="index"/>
+    <file name="u848-4.png" crc="19872542" ref="index"/>
+    <file name="u831.png" crc="116621672" ref="index"/>
+    <file name="u831-r.png" crc="63227892" ref="index"/>
+    <file name="u831-m.png" crc="63227892" ref="index"/>
+    <file name="u831-a.png" crc="4177106956" ref="index"/>
+    <file name="u927-69.png" crc="3782389139" ref="index"/>
+    <file name="u3818-4.png" crc="500730043" ref="index"/>
+    <file name="u640-23.png" crc="85324775" ref="index"/>
+    <file name="u616-4.png" crc="3996169019" ref="index"/>
+    <file name="u733.png" crc="4127403781" ref="index"/>
+    <file name="u733-r.png" crc="14096449" ref="index"/>
+    <file name="u733-m.png" crc="14096449" ref="index"/>
+    <file name="u733-a.png" crc="4070825591" ref="index"/>
+    <file name="u732-9.png" crc="4075379201" ref="index"/>
+    <file name="025_penn_ug_thesis_2018.jpg" crc="4214475976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="10 (2).jpg" crc="402490161" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="044_penn_ug_thesis_2018.jpg" crc="337851676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="sketch port 4.jpg" crc="153318261" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="img_9288.jpg" crc="14024360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="we_are_watching.gif" crc="160803067" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="img_9338-crop-u3962.jpg" crc="3861152642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="12436630_1036294099726196_1898228130_o.jpg" crc="508157297" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="img_9345-crop-u3982.jpg" crc="501938607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="edited_psds09.jpg" crc="479575645" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="isabel_1-crop-u4002.jpg" crc="3835183563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="12.jpg" crc="399748471" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="isabel_2-crop-u4022.jpg" crc="195091490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="25.jpg" crc="4161295790" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="isabel_5.jpg" crc="3998738268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="10415749_751803114841964_121098488_o.jpg" crc="4247960861" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="isabel_7.jpg" crc="3920674075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="edited_psds02.jpg" crc="331974931" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="screen-shot-2018-04-22-at-61253-pm.jpg" crc="466925018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="sketch port 2.jpg" crc="281955146" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u741.png" crc="3976061376" ref="index"/>
+    <file name="u741-r.png" crc="3902830838" ref="index"/>
+    <file name="u741-m.png" crc="3902830838" ref="index"/>
+    <file name="u741-a.png" crc="4000781120" ref="index"/>
+    <file name="u930-7.png" crc="3847774692" ref="index"/>
+    <file name="img_8680.jpg" crc="306779964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="13.jpg" crc="3861481014" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="screen-shot-2018-04-21-at-95055-pm-crop-u4129.jpg" crc="191274303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="sketch port 5.jpg" crc="360991976" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="screen-shot-2018-04-21-at-95131-pm-crop-u4149.jpg" crc="3883331285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="15.jpg" crc="4258239821" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
+    <file name="u735.png" crc="488180552" ref="index"/>
+    <file name="u735-r.png" crc="112084073" ref="index"/>
+    <file name="u735-m.png" crc="112084073" ref="index"/>
+    <file name="u735-a.png" crc="4205788440" ref="index"/>
+    <file name="u933-10.png" crc="3843124954" ref="index"/>
+    <file name="u4698-6.png" crc="104836608" ref="index"/>
+    <file name="screen-shot-2018-05-02-at-84103-pm.jpg" crc="60204525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="headshots_isabel copy.jpg" crc="4163593100" seo="true" ref="whoareyou">
-      <caption webpage="whoareyou" alt=""/>
+    <file name="screen-shot-2018-05-02-at-84133-pm.jpg" crc="4165255834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
+    <file name="screen-shot-2018-05-02-at-84157-pm.jpg" crc="456381790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-84354-pm.jpg" crc="489717094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-84419-pm.jpg" crc="3976534882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u781.png" crc="292350130" ref="index"/>
+    <file name="u781-r.png" crc="156798388" ref="index"/>
+    <file name="u781-m.png" crc="156798388" ref="index"/>
+    <file name="u781-a.png" crc="4266981206" ref="index"/>
+    <file name="u951-5.png" crc="3773562356" ref="index"/>
+    <file name="u790.png" crc="82500230" ref="index"/>
+    <file name="u790-r.png" crc="4259176152" ref="index"/>
+    <file name="u790-m.png" crc="4259176152" ref="index"/>
+    <file name="u790-a.png" crc="215132080" ref="index"/>
+    <file name="u954-4.png" crc="422455993" ref="index"/>
+    <file name="img_9025.jpg" crc="474018299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9031.jpg" crc="4009065657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9035.jpg" crc="4063169371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-83536-pm.jpg" crc="285405086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-83718-pm.jpg" crc="4292990669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-83744-pm.jpg" crc="4125273177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u799.png" crc="302016952" ref="index"/>
+    <file name="u799-r.png" crc="301116512" ref="index"/>
+    <file name="u799-m.png" crc="301116512" ref="index"/>
+    <file name="u799-a.png" crc="505600542" ref="index"/>
+    <file name="u957-7.png" crc="35184933" ref="index"/>
+    <file name="57fce6831b0000e218ef6255.jpg" crc="4061337108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="57fd0025170000c316acb1fb.jpg" crc="311868170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30709343_1872001556210499_851670892490661551_n-crop-u4496.jpg" crc="4139234797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phm7wdwig42qbwe.jpg" crc="4024142862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumblr_olhnjxiqgl1qk2duto1_1280.jpg" crc="4212420730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u808.png" crc="4216547589" ref="index"/>
+    <file name="u808-r.png" crc="345204264" ref="index"/>
+    <file name="u808-m.png" crc="345204264" ref="index"/>
+    <file name="u808-a.png" crc="4135267990" ref="index"/>
+    <file name="u975-7.png" crc="4013407130" ref="index"/>
+    <file name="u4652-6.png" crc="104836608" ref="index"/>
+    <file name="screen-shot-2018-05-02-at-84715-pm-crop-u1872.jpg" crc="311733892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-84735-pm.jpg" crc="4278246166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-84757-pm.jpg" crc="224620217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen-shot-2018-05-02-at-84830-pm.jpg" crc="137811563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u817.png" crc="4031683136" ref="index"/>
+    <file name="u817-r.png" crc="134557632" ref="index"/>
+    <file name="u817-m.png" crc="134557632" ref="index"/>
+    <file name="u817-a.png" crc="3870668687" ref="index"/>
+    <file name="u978-15.png" crc="4004944868" ref="index"/>
+    <file name="img_8936-crop-u1956.jpg" crc="3833569212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8974-crop-u4674.jpg" crc="473574718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u567-5.png" crc="4069434575" ref="index"/>
+    <file name="u2053-6.png" crc="199389034" ref="index"/>
   </folder>
-  <file name="index.html" crc="4179121971" seo="true" mt="1497427111923" redirect="true"/>
-  <file name="arttextgame.html" crc="422677908" seo="true" mt="1497428342036" redirect="true"/>
-  <file name="cv.html" crc="134023963" seo="true" mt="1497427261746" redirect="true"/>
-  <file name="fiction-nonfiction.html" crc="4012468051" seo="true" mt="1497427168076" redirect="true"/>
-  <file name="photo.html" crc="519692696" seo="true" mt="1497427329726" redirect="true"/>
-  <file name="whoareyou.html" crc="4216102825" seo="true" mt="1497427436156" redirect="true"/>
+  <file name="index.html" crc="120443604" seo="true" mt="1525363274659" redirect="true"/>
 </manifest>
